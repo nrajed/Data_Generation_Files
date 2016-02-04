@@ -14,5 +14,6 @@ But why make the fee uniform? Let's base the fee based on various factors about 
 I generated 2,000 tuples in Java, varying the factors of GPA, campus, car model, and tendency the break the system's rules. I planted trends (i.e. BMW owners with GPAs over 3 but below 3.5 break the system's rules more) and stored this in a .csv file which was imported to an SQL database on Joomla.
 
 <b>Dynamic Model</b>
+
 Used trends planted into data to calculate pricing for students. Built PHP application at link above.
 
